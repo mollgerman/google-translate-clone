@@ -1,0 +1,9 @@
+#root {
+  width: 55vw;
+  max-width: 80vw;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color:rgb(236, 246, 248);
+  border-radius: 2rem;
+  box-shadow: 10px 10px 15px rgba(0 ,0, 0, 20%);
+}
